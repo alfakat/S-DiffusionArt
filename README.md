@@ -7,6 +7,6 @@ Stable Diffusion allows as create unique and valuable works of art. The image ge
 In this repo, I am making introduction to that wide world and experiment mixing them.
 
 # How to Use the Project
-Clone the project
-Install requirements
-Scripts are independent, so run any.
+1. Clone the project
+2. Install requirements
+3. Scripts are independent, so run any.
