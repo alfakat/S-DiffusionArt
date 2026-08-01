@@ -10,3 +10,5 @@ In this repo, I am making introduction to that wide world and experiment mixing 
 1. Clone the project
 2. Install requirements
 3. Scripts are independent, so run any.
+
+https://github.com/user-attachments/assets/9135a903-ee2e-4d4e-9ac0-337e5054a26c
